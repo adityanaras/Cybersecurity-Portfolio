@@ -132,3 +132,7 @@ Assume implementing the following:
 - Risk is not just “threats”—it’s **likelihood × impact**.
 - **MFA + backups** provide the best ROI for ransomware risk reduction.
 - Security works best as layered controls (prevent, detect, correct).
+
+![Risk Register](./screenshots/risk-register.png)
+
+![Risk Matrix](./screenshots/ale-calculation.png)
