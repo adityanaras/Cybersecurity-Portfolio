@@ -1,0 +1,6 @@
+Handoff Record: Custodian B -> Custodian C
+Evidence File: evidence/evidence.txt
+Hash File: outputs/evidence.sha256
+Purpose: Transfer for archival and secure storage
+Condition: Integrity verified prior to transfer
+Timestamp (UTC): Tue Mar  3 05:16:30 AM UTC 2026
